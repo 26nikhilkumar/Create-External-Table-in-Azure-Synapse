@@ -1,0 +1,1 @@
+# Create-External-Table-in-Azure-Synapse
